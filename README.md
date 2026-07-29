@@ -4,10 +4,13 @@
 </p>
 
 ## 🚀 Featured Projects
-- **[RIDES Flipping](https://ridesflipping.com)** — Full-stack vehicle marketplace app (car & bike buy/sell). Built solo: Flutter mobile app, Next.js web platform, Node.js/Express backend, PostgreSQL + Prisma, Firebase Auth. Live on Google Play.
+- **[RIDES Flipping](https://ridesflipping.com)** — Full-stack vehicle marketplace app (car & bike buy/sell). Built solo: Flutter mobile app, Next.js web platform, Node.js/Express backend, PostgreSQL + Prisma, Firebase Auth.
+  📲 [Get it on Google Play](https://play.google.com/store/apps/details?id=com.threepillars.ridesflipping&pcampaignid=web_share)
 - **💍 Muslim Matrimonial Mobile Application** — Privacy-focused matrimonial app. Flutter (Provider) + Node.js/Express backend + PostgreSQL/Prisma. Features secure chat, profile verification, premium subscriptions, and admin moderation.
-- **🌱 Farmer Marketplace & Community App (Four Brothers Farms)** — Multi-brand agriculture marketplace built with Flutter + Firebase (Firestore, Auth). Includes community features like posts, discussions, and blogs.
+- **🌱 Farmer Marketplace & Community App (Four Brothers Farms - FB Farms)** — Multi-brand agriculture marketplace built with Flutter + Firebase (Firestore, Auth). Includes community features like posts, discussions, and blogs.
+  📲 [Get it on Google Play](https://play.google.com/store/apps/details?id=com.threepillars.fbfarms&pcampaignid=web_share) · 🍎 [Download on the App Store](https://apps.apple.com/us/app/fb-farms/id6751527696)
 - **LMS / CRM Web Application** — Company-focused LMS/CRM system built with Next.js. Role-based access (Admin/Staff/Manager), lead & meeting management, dashboards and reporting.
+  🔗 [Live Site](https://lmssoftware.threepillars.com.pk/)
 - **🛒 E-Commerce Mobile Application** — Full e-commerce app built with Flutter + BLoC state management. Firebase Authentication, cart, checkout, and order tracking.
 - **Final Year Project – Hawkers Delivery App** — Food-Panda style scheduling app for local street vendors. Flutter + Firebase (Auth, Firestore), real-time order assignment and delivery routing logic.
 - **☕ Coffee Shop App** — Flutter-based e-commerce app for a coffee shop. Firebase Authentication and database integration, inventory and order management.
