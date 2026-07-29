@@ -2,7 +2,8 @@
 <h3 align="left">A passionate developer from Pakistan</h3>
 <p align="left"> I'm a software engineer with a passion for all things code. I'm currently focused on Flutter development, but I'm always eager to learn new technologies and expand my skillset. When I'm not coding, you can find me exploring new places or indulging in my favorite hobby, which is photography.Let's chat about code, tech, and everything in between! 😃
 </p>
-
+## 🚀 Featured Projects
+- **[RIDES Flipping](https://ridesflipping.com)** — Full-stack vehicle marketplace app (car & bike buy/sell). Built solo: Flutter mobile app, Next.js web platform, Node.js/Express backend, PostgreSQL + Prisma, Firebase Auth. Live on Google Play.
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/whysorudearsh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadarshad-inhawks) 
 
