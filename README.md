@@ -9,6 +9,8 @@
 - **💍 Muslim Matrimonial Mobile Application** — Privacy-focused matrimonial app. Flutter (Provider) + Node.js/Express backend + PostgreSQL/Prisma. Features secure chat, profile verification, premium subscriptions, and admin moderation.
 - **🌱 Farmer Marketplace & Community App (Four Brothers Farms - FB Farms)** — Multi-brand agriculture marketplace built with Flutter + Firebase (Firestore, Auth). Includes community features like posts, discussions, and blogs.
   📲 [Get it on Google Play](https://play.google.com/store/apps/details?id=com.threepillars.fbfarms&pcampaignid=web_share) · 🍎 [Download on the App Store](https://apps.apple.com/us/app/fb-farms/id6751527696)
+- **📁 Habitech Document Management System** — Internal document-sharing web platform for cross-department workflows (e.g. HR sends documents, other departments get assigned and can download them). Built for Habitech.
+  🔗 [Live Site](https://doc.habitech.pk/login)
 - **LMS / CRM Web Application** — Company-focused LMS/CRM system built with Next.js. Role-based access (Admin/Staff/Manager), lead & meeting management, dashboards and reporting.
   🔗 [Live Site](https://lmssoftware.threepillars.com.pk/)
 - **🛒 E-Commerce Mobile Application** — Full e-commerce app built with Flutter + BLoC state management. Firebase Authentication, cart, checkout, and order tracking.
